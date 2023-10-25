@@ -1,0 +1,55 @@
+            #clicksection {
+                width:1222px;
+                height:415px;     
+                background-color: white;
+                position:relative;
+                top:30px;
+            }
+
+            #timer {
+                position:relative;
+                left:900px;
+                bottom:500px;
+            }
+
+            #highscore {
+                position:relative;
+                left:1050px;
+                bottom:537px;
+            }
+
+            #accuracy {
+                position:relative;
+                left:900px;
+                bottom:534px;
+            }
+
+            p {
+                font-family: 'Bakbak One', cursive;
+            }
+
+            #text {
+                position:relative;
+                top:20px;
+            }
+
+            #Start {
+                position:relative;
+                border-radius:6px;
+                font-size:17px;
+                font-family: 'Bakbak One', cursive;
+                color:black;
+                background-color:white;
+                border: 1px black solid;
+            }
+
+            #Stop {
+                position:relative;
+                left:5px;
+                border-radius:6px;
+                font-size:17px;
+                font-family: 'Bakbak One', cursive;
+                color:black;
+                background-color:white;
+                border: 1px black solid;
+            }
